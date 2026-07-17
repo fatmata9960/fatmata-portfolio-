@@ -187,40 +187,43 @@ footer{
 }
 
 .sql{
-    width:70%;
+    width:80%;
     height:100%;
     background:#0A3D62;
 }
 
 .html{
-    width:90%;
+    width:85%;
     height:100%;
     background:#0A3D62;
 }
 
 .office{
-    width:85%;
+    width:90%;
     height:100%;
     background:#0A3D62;
-}a{
-    color:#0A3D62;
-    text-decoration:none;
-    font-weight:bold;
 }
+
 
 a:hover{
     text-decoration:underline;
 }.cpp{
-    width:75%;
+    width:80%;
     height:100%;
     background:#0A3D62;
 }
 
 .javascript{
-    width:70%;
+    width:80%;
     height:100%;
     background:#0A3D62;
-}.skill-title{
+}.spss{
+    width:95%;
+    height:100%;
+    background:#0A3D62;
+}
+
+.skill-title{
     display:flex;
     justify-content:space-between;
     font-weight:600;
